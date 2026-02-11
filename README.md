@@ -89,7 +89,7 @@ Setiap selesai melakukan sebuah aksi, aplikasi akan bertanya apakah user ingin k
 
 ---
 
-###  Mengapa Aplikasi Ini Berbeda? (Gaya Nilai Tambah)
+###  Mengapa Aplikasi Ini Berbeda?
 
 * **User-Centric Design:** Meski berbasis terminal, penggunaan tabel membuat tampilan tetap estetik dan mudah dibaca.
 * **Safe Interaction:** Setiap aksi kritikal (seperti hapus atau keluar) selalu membutuhkan konfirmasi user.
