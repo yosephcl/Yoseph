@@ -88,6 +88,7 @@ Setiap selesai melakukan sebuah aksi, aplikasi akan bertanya apakah user ingin k
 <img width="861" height="243" alt="Screenshot 2026-02-10 224558" src="https://github.com/user-attachments/assets/f0251713-4225-448b-9416-176400a692b8" />
 
 ---
+This app is created by Yoseph C L / @yosephcl. You can reach me through any social media GitHub, LinkedIn, and IG
 
 ###  Mengapa Aplikasi Ini Berbeda?
 
